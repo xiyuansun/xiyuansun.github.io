@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fun on Kelly Sun</title>
-    <link>http://www.xiyuansun1991.com/tags/fun/</link>
-    <description>Recent content in Fun on Kelly Sun</description>
+    <title>Fun on Cupper</title>
+    <link>/tags/fun/</link>
+    <description>Recent content in Fun on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.xiyuansun1991.com/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://www.xiyuansun1991.com/hugoisforlovers/</link>
+      <link>/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/hugoisforlovers/</guid>
+      <guid>/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo

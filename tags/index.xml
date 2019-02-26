@@ -1,157 +1,157 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Kelly Sun</title>
-    <link>http://www.xiyuansun1991.com/tags/</link>
-    <description>Recent content in Tags on Kelly Sun</description>
+    <title>Tags on Cupper</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.xiyuansun1991.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Command Line</title>
-      <link>http://www.xiyuansun1991.com/tags/command-line/</link>
+      <link>/tags/command-line/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/command-line/</guid>
+      <guid>/tags/command-line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fun</title>
-      <link>http://www.xiyuansun1991.com/tags/fun/</link>
+      <link>/tags/fun/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/fun/</guid>
+      <guid>/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>http://www.xiyuansun1991.com/tags/git/</link>
+      <link>/tags/git/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/git/</guid>
+      <guid>/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://www.xiyuansun1991.com/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://www.xiyuansun1991.com/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>http://www.xiyuansun1991.com/tags/jekyll/</link>
+      <link>/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/jekyll/</guid>
+      <guid>/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://www.xiyuansun1991.com/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration</title>
-      <link>http://www.xiyuansun1991.com/tags/migration/</link>
+      <link>/tags/migration/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/migration/</guid>
+      <guid>/tags/migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nasa</title>
-      <link>http://www.xiyuansun1991.com/tags/nasa/</link>
+      <link>/tags/nasa/</link>
       <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/nasa/</guid>
+      <guid>/tags/nasa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>http://www.xiyuansun1991.com/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quotes</title>
-      <link>http://www.xiyuansun1991.com/tags/quotes/</link>
+      <link>/tags/quotes/</link>
       <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/quotes/</guid>
+      <guid>/tags/quotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://www.xiyuansun1991.com/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>http://www.xiyuansun1991.com/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>http://www.xiyuansun1991.com/tags/shortcodes/</link>
+      <link>/tags/shortcodes/</link>
       <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/shortcodes/</guid>
+      <guid>/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>http://www.xiyuansun1991.com/tags/templates/</link>
+      <link>/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/templates/</guid>
+      <guid>/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>http://www.xiyuansun1991.com/tags/theme/</link>
+      <link>/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.xiyuansun1991.com/tags/theme/</guid>
+      <guid>/tags/theme/</guid>
       <description></description>
     </item>
     
