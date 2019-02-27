@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-02-26T18:27:58+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <lastmod>2019-02-25T00:00:00+00:00</lastmod>
   </url>
@@ -35,6 +30,11 @@
   <url>
     <loc>/quotes-by-carl-jung/</loc>
     <lastmod>2018-12-26T00:29:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
   </url>
   
   <url>
